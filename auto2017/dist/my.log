@@ -1,0 +1,97 @@
+[INFO ] 2017-10-31 17:31:06,034 com.webtest.util.Log - hello
+[INFO ] 2017-10-31 17:47:24,105 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-10-31 17:47:24,111 com.webtest.util.Log - firefox
+[INFO ] 2017-10-31 17:47:33,530 com.webtest.util.Log - Opened url https://www.baidu.com/
+[INFO ] 2017-10-31 17:47:48,399 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:33:14,420 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:33:14,441 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:33:17,983 com.webtest.util.Log - Opened url http://localhost:8023/MyMovie/
+[INFO ] 2017-11-01 08:33:18,400 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: 登录
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.ElvhQsJYRjNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 20f02456-b377-4dc8-831c-dc1474157587
+*** Element info: {Using=link text, value=登录}
+[INFO ] 2017-11-01 08:33:18,437 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.ElvhQsJYRjNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 20f02456-b377-4dc8-831c-dc1474157587
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-01 08:33:18,537 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.ElvhQsJYRjNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 20f02456-b377-4dc8-831c-dc1474157587
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-01 08:33:18,622 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value=马上登录]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.ElvhQsJYRjNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 20f02456-b377-4dc8-831c-dc1474157587
+*** Element info: {Using=xpath, value=//input[@value=马上登录]}
+[INFO ] 2017-11-01 08:33:31,226 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:34:53,955 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:34:53,962 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:35:00,055 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:35:07,015 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value=马上登录]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.YsXAcwNYWRUL, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10892, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2ed7f130-dce6-492f-855e-5bc4eaffc8a3
+*** Element info: {Using=xpath, value=//input[@value=马上登录]}
+[INFO ] 2017-11-01 08:35:12,796 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:38:31,663 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:38:31,668 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:38:36,566 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:38:40,087 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value=马上登录]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.GDdhfV1EBd73, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6864, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5a83265b-3a49-44be-9946-faee3f25f4ee
+*** Element info: {Using=xpath, value=//input[@value=马上登录]}
+[INFO ] 2017-11-01 08:38:43,805 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:49:54,794 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:49:54,808 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:50:01,789 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:50:06,804 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value=马上登录]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.BieaHQbAHZpM, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=224, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 52f8b917-73a2-4a95-a296-1cc0ac2f568b
+*** Element info: {Using=xpath, value=//input[@value=马上登录]}
+[INFO ] 2017-11-01 08:50:15,938 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:51:30,554 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:51:30,560 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:51:35,474 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:51:38,985 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value=马上登录]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'XIHO-ICY', ip: '192.168.200.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\l\AppData\Local\Temp\rust_mozprofile.LxNFY5JAaYEx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6152, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e2fc377a-4375-4b67-99a5-4b71e54d10eb
+*** Element info: {Using=xpath, value=//input[@value=马上登录]}
+[INFO ] 2017-11-01 08:51:44,759 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:52:21,460 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:52:21,469 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:52:26,131 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:52:39,824 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-01 08:52:58,369 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-01 08:52:58,374 com.webtest.util.Log - firefox
+[INFO ] 2017-11-01 08:53:03,421 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/
+[INFO ] 2017-11-01 08:53:14,998 com.webtest.util.Log - Quitted Browser

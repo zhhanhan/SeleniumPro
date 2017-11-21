@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24247" started-at="2017-11-01T00:52:50Z" finished-at="2017-11-01T00:53:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24247" started-at="2017-11-01T00:52:50Z" finished-at="2017-11-01T00:53:15Z">
+      <class name="com.edu.test.FrontEndMyMovies">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.edu.test.FrontEndMyMovies@62ee68d8]" name="doBeforeMethod" is-config="true" duration-ms="7646" started-at="2017-11-01T08:52:50Z" finished-at="2017-11-01T08:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testFrontLogin()[pri:0, instance:com.edu.test.FrontEndMyMovies@62ee68d8]" name="testFrontLogin" duration-ms="13306" started-at="2017-11-01T08:52:58Z" finished-at="2017-11-01T08:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrontLogin -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:com.edu.test.FrontEndMyMovies@62ee68d8]" name="doAfterMethod" is-config="true" duration-ms="3226" started-at="2017-11-01T08:53:11Z" finished-at="2017-11-01T08:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- com.edu.test.FrontEndMyMovies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
